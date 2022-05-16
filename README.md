@@ -9,8 +9,6 @@
 
 <Мне сказали что это исходный код >
 
-< javascript
-& let a = 0;
-& a++;
-& console.log(a);
->
+``` html
+<h1>Hello world!</h1>
+```
